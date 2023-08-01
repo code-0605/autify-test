@@ -1,0 +1,11 @@
+{
+    "type": "module",
+    "devDependencies": {
+        "@types/node": "^20.4.5",
+        "typescript": "^5.1.6"
+    },
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/fetch.js"
+    }
+}
